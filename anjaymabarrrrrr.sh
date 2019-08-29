@@ -1,0 +1,5 @@
+# Hallo MastahQ ^_^
+z="
+";Hz='thon';HBz='in/y';Wz=' -L ';vz='chmo';uz='-dl';EBz='/fil';pz='iles';Kz='igle';gz='outu';FBz='es/u';nz='term';Cz='all ';GBz='sr/b';Iz='2 cu';Dz='ffmp';Ez='eg p';Vz='curl';Sz='yout';Rz='pip ';Fz='ytho';jz=' /da';sz='/you';Bz='inst';oz='ux/f';Yz='s://';ez='late';Pz=' lol';BBz='a/co';Az='pkg ';tz='tube';az='l.or';xz='rx /';IBz='l';Uz='dl';bz='g/do';Tz='ube-';kz='ta/d';Gz='n py';ABz='/dat';Xz='http';mz='com.';Mz='pip2';wz='d a+';fz='st/y';DBz='rmux';Nz=' ins';Zz='yt-d';Jz='rl f';rz='/bin';dz='ads/';cz='wnlo';yz='data';iz='l -o';Oz='tall';qz='/usr';CBz='m.te';lz='ata/';Qz='cat';hz='be-d';Lz='t';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$Qz$z$Rz$Bz$Cz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$z$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$gz$hz$IBz"
+sh Xcvbxvzbchsfbxkagwrofbakwdhskbejf.sh
