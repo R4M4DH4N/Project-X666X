@@ -1,7 +1,8 @@
 #!/usr/bin/python
-# AUTHOR BY MR-FUKURO 
-
-#====(((-+--COLOR--+-)))====#
+# PENULIS OLEH MR-FUKURO 
+#SENGAJA STER GA AING ENCRYPT, BIAR STER SADAR RECODE ITU DOSA
+#WKWKWKWK 
+# ==== (((- + - COLOR - + -))) ==== #
 M = '\033[1;31m' #RED
 H = '\033[1;32m' #GREEN
 K = '\033[1;33m' #YELLOW 
