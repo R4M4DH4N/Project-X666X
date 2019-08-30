@@ -1,4 +1,17 @@
 # Project-X666X
+
+25 Tools Bermanfaat 
+
+DiAntaranya :
+
+- DDos Over Power
+- Buat Script Deface Tanpa Coding
+- Buat Virus Untuk Android & Komputer
+- Download MiniShell 
+- Download MP4, MP3 Youtube
+
+Dan Masih Banyak Lagi.. 
+
 Usage
 -----
 
